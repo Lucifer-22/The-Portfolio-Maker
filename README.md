@@ -115,7 +115,7 @@ Contributions are always welcome! Please create a PR to contribute.
 
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
 
-![GitHub](https://img.shields.io/github/license/Lucifer-22/Portfolio-Maker-CS50W-Capstone?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/Lucifer-22/The-Portfolio-Maker?style=for-the-badge)
 
 
 ### :man_astronaut: &nbsp; Show your support
