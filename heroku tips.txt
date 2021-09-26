@@ -1,0 +1,3 @@
+https://devcenter.heroku.com/articles/getting-started-with-python
+
+https://devcenter.heroku.com/articles/django-assets
