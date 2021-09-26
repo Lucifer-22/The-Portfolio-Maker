@@ -27,7 +27,7 @@ A personal website can let you make your pitch in front of people you might neve
 &nbsp;
 
 
-## Distinctiveness and Complexity
+## Motivation:
 
 This project is one of a kind attempt which is completely distinct from any prior submissions. This project is about making users Portfolio Site. The basic idea is to have user sign up, enter their details and then display those information in a beautiful manner; thereby creating a portfolio site. Additionally user also gain access to API of their entered information as well. This project provides CRUD (Create/Retrieve/Update/Delete) facility to the user in order to manage and update their informations as per their need. The application is in no way similar to the idea of a social network project or e-commerce site. The application utilizes Django (6 models) on the backend and Javascript for the front-end. The application is mobile-responsive as well.
 
